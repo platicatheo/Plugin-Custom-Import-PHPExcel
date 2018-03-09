@@ -1,0 +1,23 @@
+
+
+.front_end_formfranch form {
+	padding: 30px 30px 0;
+}
+
+.front_end_formfranch form * {
+	max-width: 500px;
+	margin: auto;
+}
+
+
+.front_end_formfranch form input[name="submit_zip_code"] {
+	background: #A7D9EE;
+}
+
+.front_end_formfranch form input[name="submit_zip_code"]:hover {
+	background: #A7D900;
+}
+
+#franchises_modal td {
+	word-break: break-all;
+}

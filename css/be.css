@@ -1,0 +1,36 @@
+
+[name="submit_custom_upl"] {
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+[name="submit_custom_upl"]:hover {
+	color: #fff;
+	background-color: #90C3D4;
+}
+
+.plugin_title_th {
+	color: #224989;
+}
+
+p.success {
+	column-rule: green;
+}
+
+p.error {
+	color: red;
+}
+
+.title_p {
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.success_custom_upload {
+	color: #33c669;
+	font-size: 18px;
+	font-weight: bold;
+}
