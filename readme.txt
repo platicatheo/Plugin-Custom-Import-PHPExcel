@@ -1,7 +1,7 @@
-=== Franchise Map ===
+=== Custom Import Theo ===
 Contributors: platicatheo
-Donate link: http://auvenit.ro/donate
-Tags: Db search, CSV upload to DB, website, wordpress
+Donate link: https://webloungedesign.com
+Tags: PHPExcel, to Array from Excel, custom upload to DB, website, wordpress
 Requires at least: 4.0
 Tested up to: 4.7.5
 Stable tag: 1.0
